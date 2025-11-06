@@ -1,4 +1,4 @@
-# LAM Research Challenge (logical league) – Team Mahagatbandhan
+# LAM Research Challenge (logical league round) – Team Mahagatbandhan
 ## 🏆 Secured 2nd Position Nationwide among 1000+ Teams
 
 > 🎥 **Our Presentation:**  
@@ -77,15 +77,15 @@ Represents a controlled transfer of 125 ml fluid.
 ---
 
 # 🏆 Achievement
-## 2nd Position in the LAM Research Challenge 2025  
+## 2nd Position in the LAM Research Challenge (Logical League Round) 2025  
 ### Among 1000+ teams across India
 
 ---
 
 # 👥 Team
-- **Shreyans Jain** — Team Leader  
-- **Dilshan** — CSE  
-- **Sambhav Singh Aditya** — CSE  
+- **Shreyans Jain** — Mechanical Engineering(Team Leader)  
+- **Dilshan** — Computer Science Engineering 
+- **Sambhav Singh Aditya** — Computer Science Engineering  
 - **Verchasv Garg** — Electrical Engineering  
 
 ---
